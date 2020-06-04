@@ -1,0 +1,5 @@
+echo "Entered myScript"
+python testFile.py
+gcc -o f2 testFile2.c
+./f2
+echo "all done"
